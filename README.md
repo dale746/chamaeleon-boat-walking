@@ -1,8 +1,14 @@
-# Chamaeleon Boat Walking — V4 PC prototype
+# Fishing Planet Boat Walking — Chamaeleon Cruiser (V4)
 
-An experimental, unofficial walking helper for the **Chamaeleon cruiser** in **Fishing Planet 2.10.5.2, Microsoft Store/Xbox app on Windows**. Walk around the rear deck, lower seating area and bow, and climb to the upper helm deck.
+An experimental, unofficial boat-walking feature for the **Chamaeleon cruiser** in **Fishing Planet 2.10.5.2, Microsoft Store/Xbox app on Windows**. Walk around the rear deck, lower seating area and bow, and climb to the upper helm deck.
 
 This is a Windows helper, not an Xbox One/Series console add-on or a Microsoft Store listing. Compatibility with the Steam edition, other boats and other game versions has not been established.
+
+## What this feature adds
+
+Walk around your boat for exploration and enjoyment, instead of staying at a fixed fishing or steering position. You must already have access to the Chamaeleon cruiser through the game. This helper does not unlock the boat, bypass purchases, or change fish behaviour, bite rates, rewards, tackle settings or engine controls.
+
+**[Download the V4 Windows ZIP](https://github.com/dale746/chamaeleon-boat-walking/releases/download/v4/Chamaeleon-Whole-Boat-Walking-PC-Prototype-V4.zip)** · **[Release notes](https://github.com/dale746/chamaeleon-boat-walking/releases/tag/v4)**
 
 ## Download and start
 
